@@ -1,4 +1,4 @@
-package go-aes256
+package aes256
 
 import (
 	"crypto/aes"
