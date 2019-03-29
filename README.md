@@ -5,7 +5,7 @@ Cipher: AES/256/CBC/PKCS5Padding with random generated salt
 ### Usage
 
 ```go
-import "./aes256"
+import "github.com/johnjjung/go-aes256"
 
 // encryption
 aes256.Encrypt("TEXT", "PASSWORD")
